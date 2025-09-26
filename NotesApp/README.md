@@ -21,19 +21,7 @@ Users can create, view, and delete notes from the terminal.
 
 ## Output:
 
-=== Notes Application ===
-1. Create Note
-2. View Notes
-3. Delete All Notes
-4. Exit
-Enter your choice: 1
-Enter your note: "Buy groceries"
-Note saved successfully!
+<img width="1086" height="444" alt="Screenshot 2025-09-26 134026" src="https://github.com/user-attachments/assets/8886a0f9-ca69-4022-99d8-cc32c366666a" />
 
-=== Notes Application ===
-1. Create Note
-2. View Notes
-3. Delete All Notes
-4. Exit
-Enter your choice: 3
-All notes deleted.
+
+<img width="1090" height="615" alt="Screenshot 2025-09-26 134046" src="https://github.com/user-attachments/assets/1fea76ed-f49f-4481-b97c-a98bbf987a0a" />
